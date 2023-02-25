@@ -115,12 +115,6 @@
         </a>
         <br>Technology Risk 
       </td>
-      <td align="center" style="border:1px solid #3A424A">
-        <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://assets.stickpng.com/images/629b449395f79dc9fa7256ec.png" alt="Splunk Logo" width="40" height="40">
-    </a>
-    <br>Splunk 
-  </td>
 </tr>
   </tbody>
 </table>
