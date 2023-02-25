@@ -3,7 +3,7 @@
 <img align="center"  width="100%" src="./Assets/Banner.png"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=F64701&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+prowise26;Leader+in+Information+Security+and+Governance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=F64701&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Alex+Lim;Leader+in+Information+Security+and+Governance)](https://git.io/typing-svg)
 
 
 <img align="right" width=300px height=280px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -115,6 +115,12 @@
         </a>
         <br>Technology Risk 
       </td>
+      <td align="center" style="border:1px solid #3A424A">
+        <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://assets.stickpng.com/images/629b449395f79dc9fa7256ec.png" alt="Splunk Logo" width="40" height="40">
+    </a>
+    <br>Splunk 
+  </td>
 </tr>
   </tbody>
 </table>
